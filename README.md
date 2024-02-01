@@ -8,6 +8,10 @@ This project contains 5 sections :
 - Product: This section contains KPIs about Northwind's products.
 - Customer: This sections contains KPIs about Northwind's customers.
 - Employee: This section contains KPIs about Northwind's employees.
+- ## Related projects : 
+- [Northwind ETL using SSIS](https://github.com/ali-mir98/Northwind-ETL-SSIS)
+- [Northwind EDA using SQL](https://github.com/ali-mir98/Northwind-Exploratory-data-analysis-EDA-sql)
+
 ## Shipper
 ![Northwind dashboard powerbi](/images/Shipper.png?raw=true "Northwind Shipper dashboard powerbi")
 ## Product
